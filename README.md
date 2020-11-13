@@ -33,11 +33,10 @@
 
 # coursera:
 
-   courses:
     - title: Data Structure in Python
       link: https://www.coursera.org/learn/estructura-de-datos-python/home/welcome
-      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/e0c20b9f604558817cc6e8f6badd71/pyhton-perfil.jpg?auto=format&dpr=2&w=100&h=100&fit=clamp
       date: March 1, 2020
+
 # CISCO:
 
     - title: DBA ORACLE 9i
@@ -47,20 +46,20 @@
 
     - title: DBA DB2
       link: https://www.ibm.com/products/db2-database
-# UTN - FRM
+      
+# UTN - FRM: 
 
-   - title: Degree on Bussiness Intelligence
-   - info: Diplomatura en Business Intelligence
+    - title: Degree on Bussiness Intelligence
+      Info: Diplomatura en Business Intelligence
     Autoridad emisora Univesidad Tecnologica Nacional Facultad Regional Buenos Aires
     Fecha de emisión y, si corresponde, fecha de caducidad de la certificación o la licencia Expedición: mar. 2017Sin fecha de vencimiento
     Identificador de la credencial ID de la credencial CER-BA217K79-204477
-
       
 # Blog:
-title: Be the change
-link: https://www.eventbrite.com.ar/engineering/ser-el-cambio/
-title: Open Data
-link: https://www.eventbrite.com/engineering/open-data-what-why-and-how/
+   - title: Be the change
+     link: https://www.eventbrite.com.ar/engineering/ser-el-cambio/
+   - title: Open Data
+     link: https://www.eventbrite.com/engineering/open-data-what-why-and-how/
 
 # hackerrank:
    profileurl: https://www.hackerrank.com/NatuC

@@ -1,11 +1,12 @@
 # skills:
+
  - Python
  - API design
  - SQL
  - REST
 
-# Work experience is required
-roles:
+# Work experience
+
  - title: Software Enginer II
    start: 2017
    end: Ongoing
@@ -31,19 +32,23 @@ roles:
    web: https://www.argentina.gob.ar/interior/renaper
 
 # coursera:
+
    courses:
     - title: Data Structure in Python
       link: https://www.coursera.org/learn/estructura-de-datos-python/home/welcome
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/15/e0c20b9f604558817cc6e8f6badd71/pyhton-perfil.jpg?auto=format&dpr=2&w=100&h=100&fit=clamp
       date: March 1, 2020
 # CISCO:
+
     - title: DBA ORACLE 9i
       link: http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=3449:academias-cisco-oracle-y-sun-utn-frm-cursos-y-carreras-de-informatica-aplicada&catid=77:noticias-facultad-regional-mendoza&Itemid=487
       date: 2008
 # IBM:
+
     - title: DBA DB2
       link: https://www.ibm.com/products/db2-database
 # UTN - FRM
+
    - title: Degree on Bussiness Intelligence
    - info: Diplomatura en Business Intelligence
     Autoridad emisora Univesidad Tecnologica Nacional Facultad Regional Buenos Aires
@@ -52,21 +57,18 @@ roles:
 
       
 # Blog:
-Be the change: https://www.eventbrite.com.ar/engineering/ser-el-cambio/
-Open Data: https://www.eventbrite.com/engineering/open-data-what-why-and-how/
+title: Be the change
+link: https://www.eventbrite.com.ar/engineering/ser-el-cambio/
+title: Open Data
+link: https://www.eventbrite.com/engineering/open-data-what-why-and-how/
 
 # hackerrank:
    profileurl: https://www.hackerrank.com/NatuC
 # codewars:
    profileurl: https://www.codewars.com/users/Nats
 
-# Intro: |
+# About Me:
   My professional goal is to keep me growing as a software developer. I am a self-taught person with good adaptation to changes, always learning a building a better knowledge base.
   My knowledge of programming languages are in Python mostly, with some knowledge on Delphi, C# and Java on backend languages and React on frontend.
   I have management training in relational databases (Oracle, DB2, SQL Server) and non relational as Redis.
   4 years experiences developing SAP Business Solution.
-# additionalinfo: |
-   <strong>Python</strong>: My current role uses Python as the primary language and have been building applications in Python for the last three years. <br/><br/>
-   <strong>SQL</strong>: I am experienced in SQL and Dashboard building. I have strong knowledge on SAP tools and dashboard bulding on Tableau and Carto.<br/><br/>
-   
-

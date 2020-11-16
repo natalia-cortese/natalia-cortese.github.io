@@ -57,7 +57,7 @@
       
 # Blog:
    - title: Be the change
-     link: https://www.eventbrite.com.ar/engineering/ser-el-cambio/
+     link: <url> https://www.eventbrite.com.ar/engineering/ser-el-cambio/ </url>
    - title: Open Data
      link: https://www.eventbrite.com/engineering/open-data-what-why-and-how/
 

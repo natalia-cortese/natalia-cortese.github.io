@@ -1,4 +1,4 @@
-# skills:
+# Skills:
 
  - Python
  - API design
@@ -62,12 +62,15 @@
      link: https://www.eventbrite.com/engineering/open-data-what-why-and-how/
 
 # hackerrank:
-   profileurl: https://www.hackerrank.com/NatuC
+   https://www.hackerrank.com/NatuC
 # codewars:
-   profileurl: https://www.codewars.com/users/Nats
+   https://www.codewars.com/users/Nats
 
 # About Me:
   My professional goal is to keep me growing as a software developer. I am a self-taught person with good adaptation to changes, always learning a building a better knowledge base.
   My knowledge of programming languages are in Python mostly, with some knowledge on Delphi, C# and Java on backend languages and React on frontend.
   I have management training in relational databases (Oracle, DB2, SQL Server) and non relational as Redis.
   4 years experiences developing SAP Business Solution.
+
+# Contact Me
+https://www.linkedin.com/in/nataliacortese/

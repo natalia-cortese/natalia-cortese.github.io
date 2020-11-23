@@ -77,7 +77,6 @@
   I have management training in relational databases (Oracle, DB2, SQL Server) and non relational as Redis.
   4 years experiences developing SAP Business Solution.
   I am a curious and tireless software developer, I'm looking for the opportunity to growth and learn more. 
-  I work for the opportuniety to come.
 
 # Contact Me
 https://www.linkedin.com/in/nataliacortese/

@@ -4,6 +4,11 @@
  - API design
  - SQL
  - REST
+ 
+# My Repos:
+ - Working on ML: https://github.com/natalia-cortese/machine_learning
+ - Python learning: https://github.com/natalia-cortese/python
+ - Codewars Solutions: https://github.com/natalia-cortese/Codewars
 
 # Work experience
 

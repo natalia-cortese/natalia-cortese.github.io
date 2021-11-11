@@ -59,6 +59,23 @@
     Autoridad emisora Univesidad Tecnologica Nacional Facultad Regional Buenos Aires
     Fecha de emisión y, si corresponde, fecha de caducidad de la certificación o la licencia Expedición: mar. 2017Sin fecha de vencimiento
     Identificador de la credencial ID de la credencial CER-BA217K79-204477
+    
+# AWS Training
+    - title: AWS Technical Essentials
+      Info: Completion Certificate
+      Emisión: 10/2021
+      Vencimiento: N/A
+      Autoridad Emisora: AWS Training
+      Link: <url>https://www.linkedin.com/in/nataliacortese/#:~:text=fecha%20de%20vencimiento-,Ver%20credencial,-Diplomatura%20en%20Business</url>
+      
+      - title: Developing on AWS
+      Info: Completion Certificate
+      Emisión: 11/2021
+      Vencimiento: N/A
+      Autoridad Emisora: AWS Training
+      Link: <url>https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=1-e-JcBmnkumCuSEQUglnA2</url>
+    
+
       
 # Blog:
    - title: Be the change

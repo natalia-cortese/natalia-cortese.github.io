@@ -1,7 +1,3 @@
-## NATALIA CORTESE
-Mendoza, Argentina
-Software Developer
-
 # Skills:
 
  - Python
@@ -101,3 +97,6 @@ Software Developer
 
 # Contact Me
 https://www.linkedin.com/in/nataliacortese/
+
+Mendoza, Argentina
+Software Developer

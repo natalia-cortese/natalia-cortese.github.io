@@ -1,6 +1,4 @@
 theme: jekyll-theme-tactile
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Site settings
 title: Natalia Cortese

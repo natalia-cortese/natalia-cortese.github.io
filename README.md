@@ -1,3 +1,7 @@
+## NATALIA CORTESE
+Mendoza, Argentina
+Software Developer
+
 # Skills:
 
  - Python

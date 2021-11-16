@@ -1,6 +1,3 @@
-# Natalia Cortese
-
-
 # Skills:
 
  - Python

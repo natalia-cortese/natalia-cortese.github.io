@@ -4,6 +4,9 @@
  - API design
  - SQL
  - REST
+ - MySQL
+ - Mentoring
+ - SCRUM
  
 # My Repos:
  - Working on ML: https://github.com/natalia-cortese/machine_learning
@@ -56,9 +59,6 @@
 
     - title: Degree on Bussiness Intelligence
       Info: Diplomatura en Business Intelligence
-    Autoridad emisora Univesidad Tecnologica Nacional Facultad Regional Buenos Aires
-    Fecha de emisión y, si corresponde, fecha de caducidad de la certificación o la licencia Expedición: mar. 2017Sin fecha de vencimiento
-    Identificador de la credencial ID de la credencial CER-BA217K79-204477
     
 # AWS Training
     - title: AWS Technical Essentials

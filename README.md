@@ -15,24 +15,25 @@
 
 # Work experience
 
- - title: Software Enginer II
+ - Position: Senior Software Engineer
    start: 2017
    end: Ongoing
    employer: Eventbrite
-   description: Software developer working on API Integration with Partners. 
+   description: Software developer working on API Integration with Partners. ETL Design and Infra migration to AWS.
+   Database Design. API REST Design.
    web: www.eventbrite.com
- - title: Senior Bussiness Intelligence / Datamining Analyst.
+ - Position: Senior Bussiness Intelligence / Datamining Analyst.
    start: 2009
    end: 2017
    employer: OSEP
    description: Health Data Board, statistics of benefits consumption. SAP tools, Crystal Report, Business Object, SQL Server 2000/2005, Analysis Server, Datamining. Carto, PL / SQL, Tableau Dashboard building.
- - title: Junior Developer
+ - Position: Junior Developer
    start: 2008
    end: 2008
    employer: Inamika Interactive
    description: Delphi developer.
    web: https://www.inamika.com/es/index.html
- - title: Junior Developer
+ - Position: Junior Developer
    start: 2006
    end: 2008
    employer: Registro Nacional de Las Personas
